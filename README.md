@@ -24,4 +24,4 @@ Number of Companies Worked,
 Department and
 Attrition (target variable),
 
-#### The dataset can be accessed here.
+
